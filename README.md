@@ -1,4 +1,6 @@
 # springboot-redis-cache 
+Redis means REmote DIctionary Server. It is inmemory data structure store which supports different data structure like Strings, Hashes, List, Set and Sorted Set etc. Redis is key value database. 
+Redis can be used as database, cache and message broker. It has built in replication , LRU eviction , transactions, disk level persistence.
 
 ### To install the redis in windows:
 
